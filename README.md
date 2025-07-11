@@ -1,12 +1,8 @@
 # Title: Approximate variables for the calculation of the Forest Fire Weather Index over Peninsular Spain and the Balearic Islands
 # Authors: 	... ... , University of Murcia ( ... ... )
+#          Marco Turco, University of Murcia (marco.turco@um.es)
+#          Manuel Morcillo, University of Murcia (manuel.morcillom@um.es / manuel.morcillom@gmail.com)  
 #
-#            Marco Turco, University of Murcia (marco.turco@um.es)
-#        Manuel Morcillo, University of Murcia (manuel.morcillom@um.es / manuel.morcillom@gmail.com)  
-#               
-#
-#################################################################################################
-
 #################################################################################################
 # A. General instructions 
 #################################################################################################
